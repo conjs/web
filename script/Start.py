@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import LogProcess
-
 main = LogProcess.LogProcess();
 main.processSpar();
 main.processBindSpar();
